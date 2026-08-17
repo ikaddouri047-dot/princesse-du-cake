@@ -1,0 +1,22 @@
+<!--couleur-->
+#FFFFFF
+#FFF1E6
+#F7A8C4
+#D67C9C
+#FFF7F1
+<!--ff-fs-->
+https://fonts.google.com/share?selection.family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700|Quicksand:wght@300..700
+ 
+
+<!--H1-->
+font-size: 48px;
+<!--H2-->
+font-size: 32px;
+<!--H3-->
+font-size: 22px;
+<!--P-->
+font-size: 16px;
+<!--Buttons-->
+font-size: 16px;
+
+#e5b3c5
